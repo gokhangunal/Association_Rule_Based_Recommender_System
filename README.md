@@ -33,6 +33,6 @@ The dataset contains 162,523 observations with a size of 5 MB.
 
 ## Task 2: Generating Association Rules and Making Recommendations
 
-- Step 1: Create a service basket pivot table.
+- Step 1: Create a hizmet, basket pivot table.
 - Step 2: Generate association rules.
 - Step 3: Use the 'arl_recommender' function to make a service recommendation for a user who last received the 2_0 service."
